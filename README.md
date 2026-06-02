@@ -1,2 +1,2 @@
 # Ceaser-Cypher
-A simplified ceaser cypher project  for univercity with Python
+A simplified ceaser cypher project  for university with Python
